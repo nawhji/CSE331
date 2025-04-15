@@ -1,0 +1,133 @@
+datatype,datasize,time,memory,sorted,stable
+ascending,1000,652.8,4096,true,true
+ascending,1000,646.3,4096,true,true
+ascending,1000,749.6,4096,true,true
+ascending,1000,859.7,4096,true,true
+ascending,1000,719.3,4096,true,true
+ascending,1000,816.1,4096,true,true
+ascending,1000,953.6,4096,true,true
+ascending,1000,885.3,4096,true,true
+ascending,1000,805.8,4096,true,true
+ascending,1000,819.8,4096,true,true
+descending,1000,836.7,8008,true,true
+descending,1000,1053.8,8008,true,true
+descending,1000,988.6,8008,true,true
+descending,1000,1113.6,8008,true,true
+descending,1000,944.9,8008,true,true
+descending,1000,874.8,8008,true,true
+descending,1000,734.3,8008,true,true
+descending,1000,750.4,8008,true,true
+descending,1000,837.8,8008,true,true
+descending,1000,809.8,8008,true,true
+random,1000,845.5,8008,true,true
+random,1000,761.6,8008,true,true
+random,1000,743.6,8008,true,true
+random,1000,689.5,8008,true,true
+random,1000,828.2,8008,true,true
+random,1000,628.3,8008,true,true
+random,1000,622.1,8008,true,true
+random,1000,910.6,8008,true,true
+random,1000,886.2,8008,true,true
+random,1000,749.8,8008,true,true
+partially sorted,1000,1087.9,8008,true,true
+partially sorted,1000,1060.7,8008,true,true
+partially sorted,1000,1188,8008,true,true
+partially sorted,1000,1441.6,8008,true,true
+partially sorted,1000,988.6,8008,true,true
+partially sorted,1000,1434.1,8008,true,true
+partially sorted,1000,846.2,8008,true,true
+partially sorted,1000,982.4,8008,true,true
+partially sorted,1000,924.2,8008,true,true
+partially sorted,1000,1403.1,8008,true,true
+ascending,10000,77949.6,80008,true,true
+ascending,10000,76835.1,80008,true,true
+ascending,10000,77920.7,80008,true,true
+ascending,10000,80951.6,80008,true,true
+ascending,10000,78556.6,80008,true,true
+ascending,10000,77750.8,80008,true,true
+ascending,10000,78723.1,80008,true,true
+ascending,10000,75445.1,80008,true,true
+ascending,10000,75556.8,80008,true,true
+ascending,10000,78778,80008,true,true
+descending,10000,77904.7,80008,true,true
+descending,10000,79890.5,80008,true,true
+descending,10000,76572.1,80008,true,true
+descending,10000,75374.3,80008,true,true
+descending,10000,72184.7,80008,true,true
+descending,10000,71629,80008,true,true
+descending,10000,71620.9,80008,true,true
+descending,10000,75760.4,80008,true,true
+descending,10000,79075.7,80008,true,true
+descending,10000,71543.5,80008,true,true
+random,10000,54560.7,80008,true,true
+random,10000,54734.3,80008,true,true
+random,10000,58648,80008,true,true
+random,10000,53998.9,80008,true,true
+random,10000,54878.6,80008,true,true
+random,10000,54847.6,80008,true,true
+random,10000,54168.7,80008,true,true
+random,10000,88145.2,80008,true,true
+random,10000,63074.4,80008,true,true
+random,10000,56716.8,80008,true,true
+partially sorted,10000,71303.2,80008,true,true
+partially sorted,10000,70693.9,80008,true,true
+partially sorted,10000,73349.6,80008,true,true
+partially sorted,10000,70447,80008,true,true
+partially sorted,10000,79101.1,80008,true,true
+partially sorted,10000,71409.4,80008,true,true
+partially sorted,10000,73383,80008,true,true
+partially sorted,10000,68941.9,80008,true,true
+partially sorted,10000,69287.3,80008,true,true
+partially sorted,10000,75976.5,80008,true,true
+ascending,100000,7.23054e+06,800008,true,true
+ascending,100000,7.5329e+06,800008,true,true
+ascending,100000,7.82381e+06,800008,true,true
+ascending,100000,1.03529e+07,800008,true,true
+ascending,100000,8.50503e+06,800008,true,true
+ascending,100000,8.15722e+06,800008,true,true
+ascending,100000,9.10003e+06,800008,true,true
+ascending,100000,9.26263e+06,800008,true,true
+ascending,100000,9.43868e+06,800008,true,true
+ascending,100000,9.28038e+06,800008,true,true
+descending,100000,8.7436e+06,800008,true,true
+descending,100000,9.04679e+06,800008,true,true
+descending,100000,9.31206e+06,800008,true,true
+descending,100000,9.30514e+06,800008,true,true
+descending,100000,9.81014e+06,800008,true,true
+descending,100000,9.38508e+06,800008,true,true
+descending,100000,1.12592e+07,800008,true,true
+descending,100000,1.24318e+07,800008,true,true
+descending,100000,1.00052e+07,800008,true,true
+descending,100000,1.04528e+07,800008,true,true
+random,100000,2.12085e+07,800008,true,true
+random,100000,2.23795e+07,800008,true,true
+random,100000,2.19591e+07,800008,true,true
+random,100000,2.19256e+07,800008,true,true
+random,100000,2.2495e+07,800008,true,true
+random,100000,2.08496e+07,800008,true,true
+random,100000,1.97618e+07,800008,true,true
+random,100000,2.15591e+07,800008,true,true
+random,100000,2.1302e+07,800008,true,true
+random,100000,2.13823e+07,800008,true,true
+partially sorted,100000,1.10451e+07,800008,true,true
+partially sorted,100000,1.19008e+07,800008,true,true
+partially sorted,100000,1.28613e+07,800008,true,true
+partially sorted,100000,1.35559e+07,800008,true,true
+partially sorted,100000,1.16879e+07,800008,true,true
+partially sorted,100000,1.09022e+07,800008,true,true
+partially sorted,100000,1.19105e+07,800008,true,true
+partially sorted,100000,1.20561e+07,800008,true,true
+partially sorted,100000,1.29809e+07,800008,true,true
+partially sorted,100000,1.2591e+07,800008,true,true
+ascending,1000000,1.02198e+09,8000008,true,true
+ascending,1000000,1.08025e+09,8000008,true,true
+ascending,1000000,1.12916e+09,8000008,true,true
+descending,1000000,1.28782e+09,8000008,true,true
+descending,1000000,1.28571e+09,8000008,true,true
+descending,1000000,1.29395e+09,8000008,true,true
+random,1000000,2.71482e+09,8000008,true,true
+random,1000000,2.48176e+09,8000008,true,true
+random,1000000,2.46618e+09,8000008,true,true
+partially sorted,1000000,1.12394e+09,8000008,true,true
+partially sorted,1000000,1.03194e+09,8000008,true,true
+partially sorted,1000000,1.18563e+09,8000008,true,true

@@ -1,0 +1,161 @@
+datatype,datasize,time,memory,sorted,stable
+ascending,1000,78.9,4096,true,false
+ascending,1000,214.4,4096,true,false
+ascending,1000,134.3,4096,true,false
+ascending,1000,93.8,4096,true,false
+ascending,1000,182.2,4096,true,false
+ascending,1000,70.5,4096,true,false
+ascending,1000,62.1,4096,true,false
+ascending,1000,230.9,4096,true,false
+ascending,1000,95.4,4096,true,false
+ascending,1000,95.2,4096,true,false
+descending,1000,102.7,8008,true,false
+descending,1000,68.5,8008,true,false
+descending,1000,74.1,8008,true,false
+descending,1000,68.7,8008,true,false
+descending,1000,67.7,8008,true,false
+descending,1000,144.7,8008,true,false
+descending,1000,76,8008,true,false
+descending,1000,66.4,8008,true,false
+descending,1000,105.5,8008,true,false
+descending,1000,67.5,8008,true,false
+random,1000,129.4,8008,true,false
+random,1000,123.7,8008,true,false
+random,1000,166.5,8008,true,false
+random,1000,160.1,8008,true,false
+random,1000,111.7,8008,true,false
+random,1000,91.5,8008,true,false
+random,1000,98.4,8008,true,false
+random,1000,77.8,8008,true,false
+random,1000,86.8,8008,true,false
+random,1000,110.9,8008,true,false
+partially sorted,1000,69.9,8008,true,false
+partially sorted,1000,109.3,8008,true,false
+partially sorted,1000,239,8008,true,false
+partially sorted,1000,144.8,8008,true,false
+partially sorted,1000,71.8,8008,true,false
+partially sorted,1000,76.1,8008,true,false
+partially sorted,1000,156.2,8008,true,false
+partially sorted,1000,230.5,8008,true,false
+partially sorted,1000,243.3,8008,true,false
+partially sorted,1000,236.4,8008,true,false
+ascending,10000,2744.5,80008,true,false
+ascending,10000,2647,80008,true,false
+ascending,10000,1195.1,80008,true,false
+ascending,10000,1116.8,80008,true,false
+ascending,10000,1165.3,80008,true,false
+ascending,10000,1819.7,80008,true,false
+ascending,10000,1130.5,80008,true,false
+ascending,10000,1313.1,80008,true,false
+ascending,10000,1158.3,80008,true,false
+ascending,10000,1304.5,80008,true,false
+descending,10000,1207.5,80008,true,false
+descending,10000,1150.6,80008,true,false
+descending,10000,1607.4,80008,true,false
+descending,10000,1156.3,80008,true,false
+descending,10000,1203.4,80008,true,false
+descending,10000,1236.8,80008,true,false
+descending,10000,1201,80008,true,false
+descending,10000,1307.1,80008,true,false
+descending,10000,1144.7,80008,true,false
+descending,10000,1163.6,80008,true,false
+random,10000,1209.4,80008,true,false
+random,10000,1881.9,80008,true,false
+random,10000,1136.3,80008,true,false
+random,10000,1218,80008,true,false
+random,10000,1160.7,80008,true,false
+random,10000,1271.2,80008,true,false
+random,10000,1319.9,80008,true,false
+random,10000,1391.3,80008,true,false
+random,10000,1096.3,80008,true,false
+random,10000,1252.6,80008,true,false
+partially sorted,10000,1360.5,80008,true,false
+partially sorted,10000,1427.9,80008,true,false
+partially sorted,10000,1574.1,80008,true,false
+partially sorted,10000,1112.2,80008,true,false
+partially sorted,10000,1126.4,80008,true,false
+partially sorted,10000,1094.6,80008,true,false
+partially sorted,10000,2014.6,80008,true,false
+partially sorted,10000,1392.4,80008,true,false
+partially sorted,10000,1343.4,80008,true,false
+partially sorted,10000,1133.4,80008,true,false
+ascending,100000,13090.1,800008,true,false
+ascending,100000,13030.2,800008,true,false
+ascending,100000,11515.6,800008,true,false
+ascending,100000,12615.1,800008,true,false
+ascending,100000,12330.2,800008,true,false
+ascending,100000,12732.2,800008,true,false
+ascending,100000,13100.1,800008,true,false
+ascending,100000,11997.7,800008,true,false
+ascending,100000,12799.5,800008,true,false
+ascending,100000,12318.2,800008,true,false
+descending,100000,13023.3,800008,true,false
+descending,100000,12237.5,800008,true,false
+descending,100000,12680,800008,true,false
+descending,100000,13050.1,800008,true,false
+descending,100000,12791.6,800008,true,false
+descending,100000,12808.7,800008,true,false
+descending,100000,12613.4,800008,true,false
+descending,100000,12418.8,800008,true,false
+descending,100000,14084.5,800008,true,false
+descending,100000,13007.7,800008,true,false
+random,100000,12965.8,800008,true,false
+random,100000,13601.6,800008,true,false
+random,100000,12443.8,800008,true,false
+random,100000,12878,800008,true,false
+random,100000,12683.2,800008,true,false
+random,100000,12641,800008,true,false
+random,100000,13531.6,800008,true,false
+random,100000,13683.9,800008,true,false
+random,100000,12627.1,800008,true,false
+random,100000,13308.7,800008,true,false
+partially sorted,100000,12010.1,800008,true,false
+partially sorted,100000,11987.2,800008,true,false
+partially sorted,100000,13077.6,800008,true,false
+partially sorted,100000,11956.1,800008,true,false
+partially sorted,100000,11523.4,800008,true,false
+partially sorted,100000,12587.9,800008,true,false
+partially sorted,100000,11856.9,800008,true,false
+partially sorted,100000,12064.4,800008,true,false
+partially sorted,100000,11781.4,800008,true,false
+partially sorted,100000,12203.1,800008,true,false
+ascending,1000000,180600,8000008,true,false
+ascending,1000000,182693,8000008,true,false
+ascending,1000000,180229,8000008,true,false
+ascending,1000000,167234,8000008,true,false
+ascending,1000000,177345,8000008,true,false
+ascending,1000000,166002,8000008,true,false
+ascending,1000000,179430,8000008,true,false
+ascending,1000000,175147,8000008,true,false
+ascending,1000000,183309,8000008,true,false
+ascending,1000000,195409,8000008,true,false
+descending,1000000,188068,8000008,true,false
+descending,1000000,197237,8000008,true,false
+descending,1000000,200580,8000008,true,false
+descending,1000000,209234,8000008,true,false
+descending,1000000,212258,8000008,true,false
+descending,1000000,240230,8000008,true,false
+descending,1000000,222336,8000008,true,false
+descending,1000000,199574,8000008,true,false
+descending,1000000,209183,8000008,true,false
+descending,1000000,206159,8000008,true,false
+random,1000000,297724,8000008,true,false
+random,1000000,323206,8000008,true,false
+random,1000000,286290,8000008,true,false
+random,1000000,300414,8000008,true,false
+random,1000000,305831,8000008,true,false
+random,1000000,298803,8000008,true,false
+random,1000000,324441,8000008,true,false
+random,1000000,319588,8000008,true,false
+random,1000000,386447,8000008,true,false
+random,1000000,312887,8000008,true,false
+partially sorted,1000000,190981,8000008,true,false
+partially sorted,1000000,202779,8000008,true,false
+partially sorted,1000000,199624,8000008,true,false
+partially sorted,1000000,174530,8000008,true,false
+partially sorted,1000000,181707,8000008,true,false
+partially sorted,1000000,183450,8000008,true,false
+partially sorted,1000000,186976,8000008,true,false
+partially sorted,1000000,184445,8000008,true,false
+partially sorted,1000000,182799,8000008,true,false
+partially sorted,1000000,198949,8000008,true,false
